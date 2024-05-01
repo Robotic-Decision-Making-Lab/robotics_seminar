@@ -1,0 +1,51 @@
+export const Spring2024Speakers = [
+  {
+    date: "Apr 5",
+    name: "Kate Tsui",
+    affiliation: "Toyota Research Institute",
+    title: "Physical and Social Assistance for Aging Society",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+  {
+    date: "Apr 12",
+    name: "Matei Ciocarlie",
+    affiliation: "Columbia University",
+    title: "We (finally) have dexterous robotic manipulation. Now what?",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+  {
+    date: "May 3",
+    name: "Michael Gleicher",
+    affiliation: "University of Wisconsin-Madison",
+    title:
+      "Ranged Kinematics and Time of Flight Sensors for Shared Autonomy Robotic Systems",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+  {
+    date: "May 10",
+    name: "Nathan Kirchner",
+    affiliation: "Workr Labs Inc.",
+    title: "TBD",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+  {
+    date: "May 24",
+    name: "Dallas Swindle",
+    affiliation: "Independent Artist",
+    title: "TBD",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+  {
+    date: "May 31",
+    name: "Paul Robinette",
+    affiliation: "UMass Lowell",
+    title: "TBD",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+];
