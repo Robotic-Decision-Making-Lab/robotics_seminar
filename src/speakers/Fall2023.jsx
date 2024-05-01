@@ -7,6 +7,7 @@ export const Fall2023Speakers = [
       "Solving Robotics Tasks in Sensing, Model, and Privacy Challenged Environments",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.cis.fiu.edu/faculty-staff/bobadilla-leonardo/",
   },
   {
     date: "Oct 27",
@@ -16,6 +17,7 @@ export const Fall2023Speakers = [
       "Proposals, publications, and field work (oh my!): A year in the life of an early career, soft money research faculty",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.radlab.us/home",
   },
   {
     date: "Nov 3",
@@ -24,6 +26,7 @@ export const Fall2023Speakers = [
     title: "Surviving the Flood (of Rosbags)",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.roboto.ai/",
   },
   {
     date: "Nov 17",
@@ -33,5 +36,6 @@ export const Fall2023Speakers = [
       "Evaluating Robotic Grasping and Manipulation Performance and Generalizability",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.uml-hri-lab.com/home",
   },
 ];

@@ -6,6 +6,7 @@ export const Spring2024Speakers = [
     title: "Physical and Social Assistance for Aging Society",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.tri.global/about-us/dr-katherine-tsui",
   },
   {
     date: "Apr 12",
@@ -14,6 +15,7 @@ export const Spring2024Speakers = [
     title: "We (finally) have dexterous robotic manipulation. Now what?",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://roam.me.columbia.edu/people/matei-ciocarlie",
   },
   {
     date: "May 3",
@@ -23,6 +25,7 @@ export const Spring2024Speakers = [
       "Ranged Kinematics and Time of Flight Sensors for Shared Autonomy Robotic Systems",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://gleicher.sites.cs.wisc.edu/",
   },
   {
     date: "May 10",
@@ -31,6 +34,7 @@ export const Spring2024Speakers = [
     title: "TBD",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.linkedin.com/in/nkirchner",
   },
   {
     date: "May 24",
@@ -39,6 +43,7 @@ export const Spring2024Speakers = [
     title: "TBD",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "http://dasivdesign.com/",
   },
   {
     date: "May 31",
@@ -47,5 +52,6 @@ export const Spring2024Speakers = [
     title: "TBD",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://sites.uml.edu/paul-robinette/",
   },
 ];

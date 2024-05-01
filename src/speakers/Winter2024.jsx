@@ -7,6 +7,7 @@ export const Winter2024Speakers = [
       "AI For Deception, Manipulation & Coercion: Towards a Theory and Regulation",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://www.peterasaro.org/",
   },
   {
     date: "Jan 19",
@@ -16,6 +17,7 @@ export const Winter2024Speakers = [
       "Getting the Most Out of Technical Conferences: Tips for Students and Professionals",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://engineering.oregonstate.edu/people/bill-smart",
   },
   {
     date: "Jan 26",
@@ -25,6 +27,7 @@ export const Winter2024Speakers = [
       "Autonomy in the Human World: Developing Robots that Handle the Diversity of Human Lives",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://faculty.cc.gatech.edu/~chernova/",
   },
   {
     date: "Feb 9",
@@ -34,5 +37,6 @@ export const Winter2024Speakers = [
       "Safety, Adaptation and Efficient Learning in Physical Human-Robot Interaction:  A Dynamical Systems Approach",
     location: "Rogers Hall 230",
     time: "10:00am",
+    url: "https://nbfigueroa.github.io/",
   },
 ];

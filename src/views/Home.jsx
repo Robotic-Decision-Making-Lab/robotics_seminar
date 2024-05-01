@@ -73,7 +73,7 @@ function Home() {
           .
         </ResponsiveText>
         <ResponsiveText>
-          The seminar held <i>in-person</i> and is open to Oregon State
+          The seminar held <i>in person</i> and is open to Oregon State
           University faculty, students, and staff.
         </ResponsiveText>
         <Speakers title="Spring 2024 Schedule" list={Spring2024Speakers} />

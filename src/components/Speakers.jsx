@@ -8,10 +8,15 @@ import {
   Flex,
   Th,
   Text,
+  Link,
+  useColorModeValue,
 } from "@chakra-ui/react";
 import React from "react";
 
-function Speaker({ date, name, affiliation, title, location, time }) {
+function Speaker({ date, name, affiliation, title, location, time, url }) {
+  const textColor = useColorModeValue("osu.orange");
+  const darkTextColor = useColorModeValue("osu.darkOrange");
+
   return (
     <Tr>
       <Td
@@ -30,7 +35,21 @@ function Speaker({ date, name, affiliation, title, location, time }) {
         }}
         style={{ minWidth: "150px" }}
       >
-        {name}
+        {url ? (
+          <Link
+            color={textColor}
+            href={url}
+            _hover={{
+              color: darkTextColor,
+            }}
+            textDecoration="underline"
+            isExternal
+          >
+            {name}
+          </Link>
+        ) : (
+          name
+        )}
       </Td>
       <Td
         fontSize={{
@@ -108,6 +127,7 @@ export default function Speakers({ title, list }) {
                 title={speaker.title}
                 location={speaker.location}
                 time={speaker.time}
+                url={speaker.url}
               />
             ))}
           </Tbody>
