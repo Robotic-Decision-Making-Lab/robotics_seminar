@@ -31,7 +31,8 @@ export const Spring2024Speakers = [
     date: "May 10",
     name: "Nathan Kirchner",
     affiliation: "Workr Labs Inc.",
-    title: "TBD",
+    title:
+      "My name is Nathan & I think... interacting with robots is needlessly painful",
     location: "Rogers Hall 230",
     time: "10:00am",
     url: "https://www.linkedin.com/in/nkirchner",
