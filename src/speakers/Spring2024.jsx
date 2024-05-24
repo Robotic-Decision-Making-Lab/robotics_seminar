@@ -41,7 +41,7 @@ export const Spring2024Speakers = [
     date: "May 24",
     name: "Dallas Swindle",
     affiliation: "Independent Artist",
-    title: "TBD",
+    title: "Art at Scale: Making Big Things that Glow",
     location: "Rogers Hall 230",
     time: "10:00am",
     url: "http://dasivdesign.com/",
