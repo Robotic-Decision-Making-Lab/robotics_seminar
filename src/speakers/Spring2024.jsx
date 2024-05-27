@@ -50,7 +50,7 @@ export const Spring2024Speakers = [
     date: "May 31",
     name: "Paul Robinette",
     affiliation: "UMass Lowell",
-    title: "TBD",
+    title: "Building Trustworthy, Fieldable Robotics",
     location: "Rogers Hall 230",
     time: "10:00am",
     url: "https://sites.uml.edu/paul-robinette/",
