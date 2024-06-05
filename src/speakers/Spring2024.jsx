@@ -64,7 +64,7 @@ export const Spring2024Speakers = [
     time: "10:00am",
   },
   {
-    data: "June 12",
+    date: "June 12",
     name: "Tesca Fitzgerald",
     affiliation: "Yale University",
     title: "Getting Robots to Ask Good Questions",
