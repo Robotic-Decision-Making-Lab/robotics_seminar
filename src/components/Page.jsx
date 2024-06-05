@@ -13,7 +13,7 @@ function Page({ children }) {
       minHeight="100vh"
     >
       <Navbar />
-      <Flex flexDirection="column" marginBottom="5vh" marginTop="3vh">
+      <Flex flexDirection="column" marginBottom="2vh" marginTop="3vh">
         {children}
       </Flex>
       <Footer />
