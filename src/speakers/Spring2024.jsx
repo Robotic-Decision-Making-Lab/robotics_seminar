@@ -55,4 +55,21 @@ export const Spring2024Speakers = [
     time: "10:00am",
     url: "https://sites.uml.edu/paul-robinette/",
   },
+  {
+    date: "June 7",
+    name: "CoRIS Students",
+    affiliation: "Oregon State University",
+    title: "An Itchiness of ICRA Papers and a Mass of AAMAS Papers",
+    location: "Rogers Hall 230",
+    time: "10:00am",
+  },
+  {
+    data: "June 12",
+    name: "Tesca Fitzgerald",
+    affiliation: "Yale University",
+    title: "Getting Robots to Ask Good Questions",
+    location: "Rogers Hall 226",
+    time: "2:30pm",
+    url: "https://www.tescafitzgerald.com/",
+  }
 ];
