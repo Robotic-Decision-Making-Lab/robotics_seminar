@@ -49,7 +49,7 @@ export const Spring2024Speakers = [
   {
     date: "May 31",
     name: "Paul Robinette",
-    affiliation: "UMass Lowell",
+    affiliation: "University of Massachusetts Lowell",
     title: "Building Trustworthy, Fieldable Robotics",
     location: "Rogers Hall 230",
     time: "10:00am",
@@ -71,5 +71,5 @@ export const Spring2024Speakers = [
     location: "Rogers Hall 226",
     time: "2:30pm",
     url: "https://www.tescafitzgerald.com/",
-  }
+  },
 ];

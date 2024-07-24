@@ -31,7 +31,7 @@ export const Fall2023Speakers = [
   {
     date: "Nov 17",
     name: "Brian Flynn",
-    affiliation: "UMass Lowell",
+    affiliation: "University of Massachusetts Lowell",
     title:
       "Evaluating Robotic Grasping and Manipulation Performance and Generalizability",
     location: "Rogers Hall 230",
