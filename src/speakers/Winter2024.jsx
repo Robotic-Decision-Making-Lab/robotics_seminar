@@ -22,7 +22,7 @@ export const Winter2024Speakers = [
   {
     date: "Jan 26",
     name: "Sonia Chernova",
-    affiliation: "Georgia Tech",
+    affiliation: "Georgia Institute of Technology",
     title:
       "Autonomy in the Human World: Developing Robots that Handle the Diversity of Human Lives",
     location: "Rogers Hall 230",

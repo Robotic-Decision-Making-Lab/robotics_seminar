@@ -3,7 +3,7 @@ import React from "react";
 
 import Page from "../components/Page";
 import Speakers from "../components/Speakers";
-import { Spring2024Speakers } from "../speakers/Spring2024";
+import { Fall2024Speakers } from "../speakers/Fall2024";
 
 function ResponsiveText({ children, textColor = "#000000" }) {
   return (
@@ -76,7 +76,7 @@ function Home() {
           The seminar is held <i>in person</i> and is open to Oregon State
           University faculty, students, and staff.
         </ResponsiveText>
-        <Speakers title="Spring 2024 Schedule" list={Spring2024Speakers} />
+        <Speakers title="Fall 2024 Schedule" list={Fall2024Speakers} />
       </Flex>
     </Page>
   );
