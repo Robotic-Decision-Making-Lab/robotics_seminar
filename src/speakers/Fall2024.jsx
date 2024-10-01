@@ -12,7 +12,7 @@ export const Fall2024Speakers = [
     date: "Oct 4",
     name: "Mark Yim",
     affiliation: "University of Pennsylvania",
-    title: "TBD",
+    title: "CHAMPS, a Conformable, Highly Articulated, Multi-Purpose Scalable Robot Arm",
     location: "Covell Hall 221",
     time: "10:00am",
     url: "https://www.grasp.upenn.edu/people/mark-yim/",
