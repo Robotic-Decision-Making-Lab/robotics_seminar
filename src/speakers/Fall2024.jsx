@@ -21,7 +21,7 @@ export const Fall2024Speakers = [
     date: "Oct 11",
     name: "Zach Beattie",
     affiliation: "Oregon Health and Science University",
-    title: "TBD",
+    title: "Technology in Real-World, Longitudinal Research",
     location: "Covell Hall 221",
     time: "10:00am",
     url: "https://www.ohsu.edu/people/zachary-beattie-phd",
